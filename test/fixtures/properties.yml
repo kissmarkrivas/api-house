@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  subtype: MyString
+  bedrooms: 1
+  bathrooms: 1
+  restorooms: 1
+  parking_lots: 1
+  total_area: 1.5
+  built_area: 1.5
+  antiquity: 1
+  advertisement: one
+
+two:
+  type: 
+  subtype: MyString
+  bedrooms: 1
+  bathrooms: 1
+  restorooms: 1
+  parking_lots: 1
+  total_area: 1.5
+  built_area: 1.5
+  antiquity: 1
+  advertisement: two
